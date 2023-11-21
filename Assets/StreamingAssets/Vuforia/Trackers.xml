@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="CostaRica" size="50.000000 50.561798" />
+    <ImageTarget name="chile" size="50.000000 73.106064" />
+    <ImageTarget name="Alemania" size="50.000000 58.917198" />
+    <ImageTarget name="muneco" size="50.000000 74.924927" />
+    <ImageTarget name="planeta" size="50.000000 48.843929" />
+    <ImageTarget name="plantilla" size="500.000000 272.727264" />
+  </Tracking>
+</QCARConfig>

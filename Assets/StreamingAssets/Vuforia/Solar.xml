@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="diciembre" size="0.100000 0.133333" />
+    <ImageTarget name="marzo" size="0.100000 0.133333" />
+    <ImageTarget name="junio" size="0.100000 0.133333" />
+    <ImageTarget name="septiembre" size="0.100000 0.127604" />
+    <ImageTarget name="plantillaSolar" size="5.000000 4.175296" />
+    <ImageTarget name="munecoPlantilla" size="1.000000 1.045045" />
+    <ImageTarget name="munecoMundial" size="1.000000 1.045045" />
+    <ImageTarget name="paisAlemania" size="1.000000 1.008475" />
+    <ImageTarget name="paisChile" size="1.000000 1.008475" />
+    <ImageTarget name="paisCostaRica" size="1.000000 1.008475" />
+  </Tracking>
+</QCARConfig>
